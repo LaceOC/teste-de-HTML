@@ -1,0 +1,15 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #ffcccc;
+}
+
+.container {
+    position: relative;
+}
+.convite {
+    position: relative;
+    top: 50px;
+}
